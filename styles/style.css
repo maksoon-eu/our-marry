@@ -217,7 +217,7 @@ img {
 
 .photo-strip__item--right {
   top: 30px;
-  right: -30px;
+  left: 350px;
   width: 156px;
   height: 232px;
   transform: rotate(9.9deg);
