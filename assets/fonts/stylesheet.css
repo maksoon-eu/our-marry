@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "AnastasiaScript";
+    src: url("./AnastasiaScript/anastasiascript.ttf");
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: "SourceSerif";
+    src: url("./sourceSerif/SourceSerif4-ExtraLight.ttf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "SourceSerif";
+    src: url("./sourceSerif/SourceSerif4-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "SourceSerif";
+    src: url("./sourceSerif/SourceSerif4-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "SourceSerif";
+    src: url("./sourceSerif/SourceSerif4-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "SourceSerif";
+    src: url("./sourceSerif/SourceSerif4-Bold.ttf");
+    font-weight: 700;
+}

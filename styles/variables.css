@@ -1,0 +1,17 @@
+:root {
+  --font-family-script: "AnastasiaScript", "Brush Script MT", cursive;
+  --font-family-serif: "SourceSerif", Georgia, serif;
+  --font-family-sans: Montserrat, Arial, sans-serif;
+
+  --color-cream: #f5f2e1;
+  --color-paper: #cbba9e;
+  --color-green: #434834;
+  --color-green-soft: #767a61;
+  --color-brown: #6b4d3b;
+  --color-brown-deep: #39221c;
+  --color-white: #ffffff;
+  --color-black: #111111;
+
+  --shadow-photo: 0 18px 36px rgba(34, 28, 20, 0.22);
+  --transition-main: 0.7s ease;
+}
